@@ -30,6 +30,7 @@
 
         <TextView
             style="@style/TextAppearance.AppCompat.Large"
+            android:text="@{text}"
             tools:text="Descripción ..."
             android:layout_marginBottom="@dimen/small"
             />
